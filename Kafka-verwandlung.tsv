@@ -1,0 +1,227 @@
+ # de.tudarmstadt.ukp.dkpro.core.api.syntax.type.chunk.Chunk | chunkValue
+#id=1
+#text=Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt.
+1-1	Als	B-KOUS	
+1-2	Gregor	B-NE	
+1-3	Samsa	B-NE	
+1-4	eines	B-ART	
+1-5	Morgens	B-NN	
+1-6	aus	B-APPR	
+1-7	unruhigen	B-ADJA	
+1-8	Träumen	B-NN	
+1-9	erwachte	B-VVFIN	
+1-10	,	B-$,	
+1-11	fand	B-VVFIN	
+1-12	er	B-PPER	
+1-13	sich	B-PRF	
+1-14	in	B-APPR	
+1-15	seinem	B-PPOSAT	
+1-16	Bett	B-NN	
+1-17	zu	B-APPR	
+1-18	einem	B-ART	
+1-19	ungeheueren	B-ADJA	
+1-20	Ungeziefer	B-NN	
+1-21	verwandelt	B-VVFIN	
+1-22	.	B-$.	
+
+#id=2
+#text=Er lag auf seinem panzerartig harten Rücken und sah, wenn er den Kopf ein wenig hob, seinen gewölbten, braunen, von bogenförmigen Versteifungen geteilten Bauch, auf dessen Höhe sich die Bettdecke, zum gänzlichen Niedergleiten bereit, kaum noch erhalten konnte.
+2-1	Er	B-PPER	
+2-2	lag	B-VVFIN	
+2-3	auf	B-APPR	
+2-4	seinem	B-PROSAT	
+2-5	panzerartig	B-ADJD	
+2-6	harten	B-ADJA	
+2-7	Rücken	B-NN	
+2-8	und	B-KON	
+2-9	sah	B-VVFIN	
+2-10	,	B-$,	
+2-11	wenn	B-KOUS	
+2-12	er	B-PPER	
+2-13	den	B-ART	
+2-14	Kopf	B-NN	
+2-15	ein	B-PIDAT	
+2-16	wenig	B-PIDAT	
+2-17	hob	B-VVFIN	
+2-18	,	B-$,	
+2-19	seinen	B-PPOSAT	
+2-20	gewölbten	B-ADJA	
+2-21	,	B-$,	
+2-22	braunen	B-ADJA	
+2-23	,	B-$,	
+2-24	von	B-APPR	
+2-25	bogenförmigen	B-ADJA	
+2-26	Versteifungen	B-NN	
+2-27	geteilten	B-ADJA	
+2-28	Bauch	B-NN	
+2-29	,	B-$,	
+2-30	auf	B-APPR	
+2-31	dessen	B-PRELAT	
+2-32	Höhe	B-NN	
+2-33	sich	B-PRF	
+2-34	die	B-ART	
+2-35	Bettdecke	B-NN	
+2-36	,	B-$,	
+2-37	zum	B-APPRART	
+2-38	gänzlichen	B-ADJA	
+2-39	Niedergleiten	B-NN	
+2-40	bereit	B-ADJD	
+2-41	,	B-$,	
+2-42	kaum	B-ADV	
+2-43	noch	B-ADV	
+2-44	erhalten	B-VVINF	
+2-45	konnte	B-VMFIN	
+2-46	.	B-$.	
+
+#id=3
+#text=Seine vielen, im Vergleich zu seinem sonstigen Umfang kläglich dünnen Beine flimmerten ihm hilflos vor den Augen.
+3-1	Seine	B-PPOSAT	
+3-2	vielen	B-ADJA	
+3-3	,	B-$,	
+3-4	im	B-APPRART	
+3-5	Vergleich	B-NN	
+3-6	zu	B-APPR	
+3-7	seinem	B-PPOSAT	
+3-8	sonstigen	B-ADJA	
+3-9	Umfang	B-NN	
+3-10	kläglich	B-ADJD	
+3-11	dünnen	B-ADJA	
+3-12	Beine	B-NN	
+3-13	flimmerten	B-VVFIN	
+3-14	ihm	B-PPER	
+3-15	hilflos	B-ADJD	
+3-16	vor	B-APPR	
+3-17	den	B-ART	
+3-18	Augen	B-NN	
+3-19	.	B-$.	
+
+#id=4
+#text="Was ist mit mir geschehen?"
+4-1	"	B-$(	
+4-2	Was	B-PWS	
+4-3	ist	B-VAFIN	
+4-4	mit	B-APPR	
+4-5	mir	B-PPER	
+4-6	geschehen	B-VVPP	
+4-7	?	B-$.	
+4-8	"	B-$(	
+
+#id=5
+#text=, dachte er.
+5-1	,	B-$,	
+5-2	dachte	B-VVFIN	
+5-3	er	B-PPER	
+5-4	.	B-$.	
+
+#id=6
+#text=Es war kein Traum.
+6-1	Es	B-PIS	
+6-2	war	B-VAFIN	
+6-3	kein	B-PIAT	
+6-4	Traum	B-NN	
+6-5	.	B-$.	
+
+#id=7
+#text=Sein Zimmer, ein richtiges, nur etwas zu kleines Menschenzimmer, lag ruhig zwischen den vier wohlbekannten Wänden.
+7-1	Sein	B-PPOSAT	
+7-2	Zimmer	B-NN	
+7-3	,	B-$,	
+7-4	ein	B-ART	
+7-5	richtiges	B-ADJA	
+7-6	,	B-$,	
+7-7	nur	B-KOUS	
+7-8	etwas	B-ADV	
+7-9	zu	B-PTKA	
+7-10	kleines	B-ADJA	
+7-11	Menschenzimmer	B-NN	
+7-12	,	B-$,	
+7-13	lag	B-VVFIN	
+7-14	ruhig	B-ADJD	
+7-15	zwischen	B-APPR	
+7-16	den	B-ART	
+7-17	vier	B-CARD	
+7-18	wohlbekannten	B-ADJA	
+7-19	Wänden	B-NN	
+7-20	.	B-$.	
+
+#id=8
+#text=Über dem Tisch, auf dem eine auseinandergepackte Musterkollektion von Tuchwaren ausgebreitet war - Samsa war Reisender - hing das Bild, das er vor kurzem aus einer illustrierten Zeitschrift ausgeschnitten und in einem hübschen, vergoldeten Rahmen untergebracht hatte.
+8-1	Über	B-APPR	
+8-2	dem	B-ART	
+8-3	Tisch	B-NN	
+8-4	,	B-$,	
+8-5	auf	B-KOUS	
+8-6	dem	B-KOUS	
+8-7	eine	B-ART	
+8-8	auseinandergepackte	B-ADJA	
+8-9	Musterkollektion	B-NN	
+8-10	von	B-APPR	
+8-11	Tuchwaren	B-NN	
+8-12	ausgebreitet	B-VVPP	
+8-13	war	B-VAFIN	
+8-14	-	B-$(	
+8-15	Samsa	B-NE	
+8-16	war	B-VAFIN	
+8-17	Reisender	B-NN	
+8-18	-	B-$(	
+8-19	hing	B-VVFIN	
+8-20	das	B-ART	
+8-21	Bild	B-NN	
+8-22	,	B-$,	
+8-23	das	B-KOUS	
+8-24	er	B-ART	
+8-25	vor	B-ADVERB	
+8-26	kurzem	B-ADVERB	
+8-27	aus	B-APPR	
+8-28	einer	B-ART	
+8-29	illustrierten	B-PTKA	
+8-30	Zeitschrift	B-NN	
+8-31	ausgeschnitten	B-VVPP	
+8-32	und	B-KON	
+8-33	in	B-APPR	
+8-34	einem	B-ART	
+8-35	hübschen	B-ADJA	
+8-36	,	B-$,	
+8-37	vergoldeten	B-ADJA	
+8-38	Rahmen	B-NN	
+8-39	untergebracht	B-VVPP	
+8-40	hatte	B-VAFIN	
+8-41	.	B-$.	
+
+#id=9
+#text=Es stellte eine Dame dar, die mit einem Pelzhut und einer Pelzboa versehen, aufrecht dasaß und einen schweren Pelzmuff, in dem ihr ganzer Unterarm verschwunden war, dem Beschauer entgegenhob.
+9-1	Es	B-PIS	
+9-2	stellte	B-VVFIN	
+9-3	eine	B-ART	
+9-4	Dame	B-NN	
+9-5	dar	B-VVFIN	
+9-6	,	B-$,	
+9-7	die	B-KOUS	
+9-8	mit	B-APPR	
+9-9	einem	B-ART	
+9-10	Pelzhut	B-NN	
+9-11	und	B-KON	
+9-12	einer	B-ART	
+9-13	Pelzboa	B-NN	
+9-14	versehen	B-VVPP	
+9-15	,	B-$,	
+9-16	aufrecht	B-ADJD	
+9-17	dasaß	B-VVFIN	
+9-18	und	B-KON	
+9-19	einen	B-ART	
+9-20	schweren	B-ADJA	
+9-21	Pelzmuff	B-NN	
+9-22	,	B-$,	
+9-23	in	B-APPR	
+9-24	dem	B-ART	
+9-25	ihr	B-PPOSAT	
+9-26	ganzer	B-ADJA	
+9-27	Unterarm	B-NN	
+9-28	verschwunden	B-VVFIN	
+9-29	war	B-VAFIN	
+9-30	,	B-$,	
+9-31	dem	B-ART	
+9-32	Beschauer	B-NN	
+9-33	entgegenhob	B-VVFIN	
+9-34	.	B-$.	
+
